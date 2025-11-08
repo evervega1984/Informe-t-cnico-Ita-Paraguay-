@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Informe Estratégico Ejecutivo para la Gestión Municipal de Itá, Paraguay</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            background-color: #f8f9fa;
+            color: #343a40;
+        }
+       .container {
+            max-width: 900px;
+            margin: auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #004085;
+            border-bottom: 3px solid #004085;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+            font-size: 2em;
+        }
+        h2 {
+            color: #0056b3;
+            margin-top: 25px;
+            border-bottom: 2px solid #e9ecef;
+            padding-bottom: 5px;
+            font-size: 1.5em;
+        }
+        h3 {
+            color: #1e4b7b;
+            margin-top: 15px;
+            font-size: 1.2em;
+        }
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 0.9em;
+        }
+        th, td {
+            border: 1px solid #dee2e6;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #004085;
+            color: #ffffff;
+            font-weight: bold;
+        }
+       .cita {
+            vertical-align: super;
+            font-size: 0.8em;
+            color: #dc3545;
+            font-weight: bold;
+            text-decoration: none;
+        }
+       .fuentes {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #dee2e6;
+        }
+       .fuentes ol {
+            padding-left: 20px;
+        }
+       .fuentes li {
+            margin-bottom: 10px;
+            font-size: 0.9em;
+        }
+       .fuentes a {
+            color: #007bff;
+            text-decoration: none;
+        }
+       .fuentes a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>INFORME ESTRATÉGICO EJECUTIVO PARA LA GESTIÓN MUNICIPAL DE ITÁ, PARAGUAY</h1>
+
+        <p>El presente informe ha sido elaborado como un diagnóstico integral y estratégico para la próxima administración municipal de Itá. Se analizan las principales dimensiones demográficas, socioeconómicas, de salud, educación e infraestructura, identificando desafíos críticos y oportunidades de crecimiento. El objetivo es proporcionar una base de conocimiento robusta para la formulación del Plan de Desarrollo Municipal, priorizando la equidad territorial y la modernización de la gestión pública.</p>
+
+        <h2>I. RESUMEN EJECUTIVO Y CONCLUSIONES CLAVE</h2>
+
+        <p>La ciudad de Itá, con una población en crecimiento y una estructura mayoritariamente joven, se enfrenta a una marcada disparidad socio-espacial entre su núcleo urbano y sus compañías rurales. El principal desafío estratégico es mitigar este desequilibrio, que se manifiesta en déficits críticos de infraestructura básica y en una severa crisis de capital humano en las áreas periféricas.</p>
+
+        <h3>1.1. Hallazgos Clave y Conclusiones Centrales</h3>
+        <ul>
+            <li><strong>Disparidad Socio-Espacial Profunda:</strong> Existe una brecha significativa en el acceso a servicios entre Itá urbano y las compañías rurales.<a href="#f1" class="cita">[1]</a> Las áreas rurales dependen de pozos sin bomba para el agua y de letrinas comunes para el saneamiento, lo cual es un factor determinante de la morbilidad por enfermedades prevenibles.</li>
+            <li><strong>Población Joven y Presión Laboral:</strong> El distrito alberga una población total de <strong>69,049 habitantes</strong> (Censo 2022) <a href="#f2" class="cita">[2]</a>, con una edad mediana de <strong>29 años</strong>.<a href="#f2" class="cita">[2]</a> Esta composición demográfica impone una urgencia en la inversión en formación, desarrollo de capacidades, y generación de oportunidades de primer empleo que sean competitivas.</li>
+            <li><strong>Crisis Educativa Rural:</strong> La brecha educativa es alarmante. Mientras que la asistencia promedio distrital a instituciones formales ronda el 60% para el rango de 6 a 24 años, la tasa de personas que <strong>no asisten</strong> alcanza un crítico <strong>41%</strong> en localidades como Peguajhó.<a href="#f1" class="cita">[1]</a> Esta falta de acceso y retención compromete el futuro socioeconómico de la población rural.</li>
+            <li><strong>Desafío de la Transparencia Fiscal:</strong> La capacidad de la administración municipal para obtener credibilidad y financiación futura está supeditada a la transparencia. Históricamente, se han identificado debilidades en la rendición de cuentas, como la no presentación de informes sobre transferencias a entidades educativas y diferencias en los montos declarados de Royalties.<a href="#f3" class="cita">[3, 4]</a></li>
+        </ul>
+
+        <h3>1.2. Prioridades Estratégicas Recomendadas</h3>
+        <ol>
+            <li><strong>Programa "Itá Equitativa":</strong> La Intendencia debe invertir de manera prioritaria y coordinada en la extensión de la red de agua potable y la instalación de sistemas de saneamiento adecuados en las compañías rurales. Esto no es solo una medida de infraestructura, sino una intervención directa en la salud pública y en la productividad laboral.</li>
+            <li><strong>Transparencia 360 y Rendición de Cuentas:</strong> Es fundamental digitalizar y publicar en tiempo real la ejecución del presupuesto, incluyendo los fondos críticos como FONACIDE y Royalties. Esta acción es esencial para restablecer la confianza ciudadana y optimizar la utilización de los recursos transferidos.<a href="#f5" class="cita">[5]</a></li>
+            <li><strong>Salud Preventiva Territorial:</strong> Reforzar y ampliar el alcance de las Unidades de Salud de la Familia (USF) y la coordinación con el Hospital Distrital, priorizando la prevención de las Enfermedades Diarreicas Agudas (EDA) e Infecciones Respiratorias Agudas (IRA), cuya prevalencia está íntimamente ligada a la precariedad de los servicios básicos en la ruralidad.<a href="#f1" class="cita">[1, 6]</a></li>
+        </ol>
+
+        <h2>II. DIMENSIÓN POBLACIONAL Y ESTRUCTURA SOCIAL</h2>
+
+        <h3>2.1. Dinámica Demográfica de Itá (Base para la Planificación)</h3>
+        <p>El distrito de Itá, ubicado en el Departamento Central, cuenta con una población total proyectada o estimada en <strong>69,049 habitantes</strong> según los resultados finales del Censo 2022.<a href="#f2" class="cita">[2]</a> Este dato es la métrica fundamental para la planificación de la inversión per cápita en servicios públicos.</p>
+        <p>La estructura poblacional es relativamente joven, reflejada en una edad mediana para el distrito de <strong>29 años</strong>.<a href="#f2" class="cita">[2]</a> Sin embargo, existen variaciones internas: los pobladores más jóvenes, con un promedio de edad de 24 años, se encuentran típicamente en el estrato bajo de comunidades rurales como Peguajhó. En contraste, los residentes de más edad (32 años promedio) se ubican en comunidades como Curupicayty, dentro del estrato alto.<a href="#f1" class="cita">[1]</a> Esta estructura joven subraya la necesidad de políticas que impulsen el primer empleo y la oferta de vivienda accesible.</p>
+
+        <h3>2.2. Distribución por Sexo y Patrones Migratorios</h3>
+        <p>La composición de la población varía notablemente entre el área urbana y las compañías rurales, lo que indica patrones migratorios claros y desafíos en la equidad de oportunidades.</p>
+        <p>En <strong>Itá Urbano</strong>, la población masculina es del <strong>48%</strong> <a href="#f1" class="cita">[1]</a>, lo que implica que existe una mayor proporción de mujeres. Por el contrario, en las compañías rurales como Peguajhó y Curupicayty, la proporción de población masculina se incrementa al <strong>53%</strong> y <strong>55%</strong> respectivamente.<a href="#f1" class="cita">[1]</a></p>
+        <p>Esta diferencia en la proporción de género, con una concentración de población femenina en la zona urbana, se atribuye a los desplazamientos rural-urbano de la población femenina.<a href="#f1" class="cita">[1]</a> La búsqueda de mejores oportunidades educativas o laborales en el núcleo urbano genera un desequilibrio. Este fenómeno de migración interna sobrecarga los servicios urbanos y, de manera simultánea, disminuye la fuerza laboral potencial en el sector primario rural, afectando la sustentabilidad de las comunidades de origen. Una gestión efectiva debe crear incentivos específicos para el desarrollo rural y la diversificación económica <em>in situ</em> para contrarrestar este desequilibrio.</p>
+
+        <p><strong>Tabla I. Estructura Demográfica y Desequilibrio Socio-Espacial (Itá 2022)</strong></p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Indicador Demográfico/Social</th>
+                    <th>Itá Distrito (Total)</th>
+                    <th>Itá Urbano</th>
+                    <th>Itá Rural (Ej. Peguajhó)</th>
+                    <th>Fuente</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Población Total (2022)</td>
+                    <td>69,049</td>
+                    <td>N/A</td>
+                    <td>N/A</td>
+                    <td><a href="#f2" class="cita">[2]</a></td>
+                </tr>
+                <tr>
+                    <td>Edad Mediana</td>
+                    <td>29 años</td>
+                    <td>N/A</td>
+                    <td>24 años (Estrato bajo)</td>
+                    <td><a href="#f1" class="cita">[1]</a>, <a href="#f2" class="cita">[2]</a></td>
+                </tr>
+                <tr>
+                    <td>Proporción Población Masculina</td>
+                    <td>N/A</td>
+                    <td>48%</td>
+                    <td>53%-55%</td>
+                    <td><a href="#f1" class="cita">[1]</a></td>
+                </tr>
+                <tr>
+                    <td>Jefatura de Hogar Femenina</td>
+                    <td>N/A</td>
+                    <td>~33%</td>
+                    <td>22%-26%</td>
+                    <td><a href="#f1" class="cita">[1]</a></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h3>2.3. Perfil Socioeconómico y Liderazgo Femenino</h3>
+        <p>La dimensión social también revela patrones importantes de liderazgo. Cerca de la tercera parte de los hogares en <strong>Itá urbano</strong> están dirigidos por <strong>mujeres</strong>, y esta jefatura femenina se mantiene alta en las zonas rurales (26% en Peguajhó y 22% en Curupicayty).<a href="#f1" class="cita">[1]</a> Esto requiere que las políticas de desarrollo económico y social, especialmente las relacionadas con microcréditos y subsidios, reconozcan y apoyen el rol de la mujer como jefa de hogar.</p>
+        <p>A nivel de contexto, Paraguay enfrenta una situación preocupante de pobreza multidimensional, con muchos municipios donde más del 50% de la población sufre Necesidades Básicas Insatisfechas (NBI).<a href="#f7" class="cita">[7]</a> El Departamento Central también presenta desafíos en NBI relacionados con el acceso a la educación.<a href="#f8" class="cita">[8]</a> La combinación de infraestructura precaria en la ruralidad (falta de agua y saneamiento <a href="#f1" class="cita">[1]</a>) y el bajo nivel educativo actúan como un "nudo" de subdesarrollo que condena a la población a la dependencia y perpetúa el ciclo de pobreza, un desafío que debe abordarse de forma simultánea e integrada.</p>
+
+        <h2>III. DESARROLLO ECONÓMICO Y FINANZAS MUNICIPALES</h2>
+
+        <h3>3.1. Estructura Productiva Local y Potencial</h3>
+        <p>La base económica de Paraguay históricamente se ha centrado en la agricultura y la ganadería.<a href="#f9" class="cita">[9]</a> Específicamente, Itá posee una fuerte identidad productiva ligada al cultivo de caña de azúcar y la elaboración de la <strong>miel de caña</strong> (el "Ita Karu" <a href="#f10" class="cita">[10]</a>), actividad que data de sus primeros pobladores.<a href="#f11" class="cita">[11]</a></p>
+        <p>La estrategia municipal debe centrarse en formalizar y diversificar la economía local más allá del sector primario tradicional, promoviendo el crecimiento de los sectores de industria, comercio y servicios.<a href="#f12" class="cita">[12]</a> La identidad de la miel de caña puede ser utilizada como un ancla para el desarrollo de pequeñas y medianas empresas (PYMEs) y el turismo asociado, aprovechando los nuevos atractivos como el Centro Recreativo Las Palmeras.<a href="#f13" class="cita">[13]</a></p>
+
+        <h3>3.2. Gestión Financiera y Transparencia Presupuestaria</h3>
+        <p>La gestión financiera municipal se nutre de ingresos propios (liquidación de impuestos municipales <a href="#f14" class="cita">[14]</a>) y de transferencias gubernamentales como Royalties y FONACIDE.<a href="#f3" class="cita">[3, 4]</a> La optimización de los ingresos propios, mediante la modernización de los sistemas de recaudación y el ofrecimiento de descuentos por pago puntual <a href="#f15" class="cita">[15]</a>, es esencial.</p>
+        <p>Sin embargo, el informe señala retos históricos en la rendición de cuentas. Un análisis de 2007 reveló que la Administración Municipal no presentó las rendiciones de cuentas por transferencias a entidades educativas e instituciones sin fines de lucro (Rubro 842) por G. 63,955,100. Además, se encontraron diferencias entre los montos de Royalties ejecutados por la Municipalidad (G. 1.113.334.975) y los transferidos por el Ministerio de Hacienda (G. 1.103.334.975 en 2006).<a href="#f4" class="cita">[4]</a></p>
+        <p>Los desafíos históricos en la gestión de fondos transferidos impactan la confianza pública y limitan la capacidad de la municipalidad para acceder a futuros financiamientos que exijan una estricta pulcritud fiscal. Por lo tanto, la implementación de un sistema de Transparencia Proactiva, que publique la ejecución de gastos (como el detallado en el documento de gastos de julio <a href="#f16" class="cita">[16]</a>) y la asignación de fondos críticos en tiempo real a través del Portal Unificado de Acceso a la Información Pública <a href="#f5" class="cita">[5]</a>, es una necesidad imperiosa para el próximo gobierno.</p>
+
+        <h2>IV. INFRAESTRUCTURA Y SERVICIOS PÚBLICOS BÁSICOS</h2>
+
+        <h3>4.1. Cobertura de Agua y Saneamiento</h3>
+        <p>La infraestructura de servicios básicos refleja la más evidente brecha socio-espacial.</p>
+        <p>En <strong>Itá Urbano</strong>, más de la mitad de las viviendas visitadas (58%) utilizan la red de CORPOSANA/SENASA, la cual es administrada por la ESSAP.<a href="#f1" class="cita">[1]</a> En contraste, en las compañías rurales como Peguajhó y Curupicayty, la tendencia dominante es la utilización de <strong>pozos sin bomba</strong> para el abastecimiento de agua.<a href="#f1" class="cita">[1]</a></p>
+        <p>El desafío nacional de ESSAP es significativo, con una cobertura rural de apenas 49% y pérdidas del 47% de agua potable en la red por infraestructura obsoleta.<a href="#f17" class="cita">[17]</a> En Itá, la ESSAP ha implementado 67 nuevas conexiones y planea la excavación de un nuevo pozo para extender las redes.<a href="#f18" class="cita">[18]</a> No obstante, la Intendencia debe ejercer presión y coordinar activamente con ESSAP para priorizar la inversión del "último kilómetro" y llevar la red a las comunidades rurales.</p>
+        <p>Respecto al saneamiento, la situación es igualmente dual: el área urbana utiliza mayoritariamente el <strong>pozo ciego</strong> (65%) <a href="#f1" class="cita">[1]</a>, mientras que las áreas rurales dependen de la <strong>letrina común</strong>.<a href="#f1" class="cita">[1]</a> La dependencia de letrinas y pozos sin bomba en las compañías es un factor ambiental clave que determina la morbilidad por enfermedades infecciosas (EDA/IRA), creando una barrera estructural al desarrollo humano.</p>
+
+        <h3>4.2. Gestión de Residuos Sólidos y Ambiente</h3>
+        <p>El marco legal paraguayo regula el manejo de residuos sólidos, incluyendo los peligrosos (biológico-infecciosos e industriales).<a href="#f19" class="cita">[19]</a> La administración municipal, en conjunto con entidades como el MADES, ha participado en "mingas ambientales" para combatir el dengue y ha promovido la separación de desechos mediante la provisión de tachos contenedores diferenciados.<a href="#f20" class="cita">[20]</a></p>
+        <p>Aunque las mingas son esenciales para la salud pública y el combate al dengue <a href="#f20" class="cita">[20]</a>, representan una respuesta reactiva. La Intendencia requiere implementar un Plan de Gestión Integral de Residuos Sólidos Urbanos (GIRSU) que sea preventivo y sostenible. El manejo adecuado del vertedero y la garantía de una recolección regular son vitales en un distrito con alta densidad poblacional.</p>
+
+        <h3>4.3. Espacios Públicos y Recreación</h3>
+        <p>Itá cuenta con activos significativos en esparcimiento. La ciudad es el hogar del "Centro Recreativo Las Palmeras", promovido por la SENATUR.<a href="#f13" class="cita">[13]</a> Además, se ha inaugurado una "Plaza Deportiva" por la Secretaría Nacional de Deportes (SND) <a href="#f10" class="cita">[10]</a>, buscando fomentar la actividad física.</p>
+        <p>Para maximizar el impacto de estos activos, la municipalidad debe priorizar la seguridad y el mantenimiento. Experiencias en otras localidades demuestran que la inversión en vigilancia (ej. circuito cerrado) en espacios públicos es crucial para prevenir el robo y el vandalismo de equipos y estructuras, asegurando la accesibilidad y el disfrute por parte de la comunidad.<a href="#f21" class="cita">[21]</a></p>
+
+        <h2>V. SECTOR SALUD Y BIENESTAR SOCIAL</h2>
+
+        <h3>5.1. Infraestructura Sanitaria y Cobertura</h3>
+        <p>Itá se beneficia del <strong>Hospital Distrital de Itá</strong> y cuenta con la red de <strong>Unidades de Salud de la Familia (USF)</strong>.<a href="#f22" class="cita">[22]</a> El modelo USF, que incluye unidades estándar y ampliadas <a href="#f23" class="cita">[23]</a>, está diseñado para ofrecer atención integral y prevención a nivel comunitario, con énfasis en obstetricia y odontología.<a href="#f23" class="cita">[23]</a></p>
+        <p>El Hospital Distrital es un socio activo de la gestión local. A través de la colaboración con la Gobernación y la Municipalidad, se realizan actividades de extensión con la <strong>Clínica Móvil</strong>, llevando servicios de consulta en clínica médica, odontología, pediatría y ginecología a territorios sociales, como Nueva Esperanza.<a href="#f24" class="cita">[24]</a> Esta estrategia de atención móvil es crucial para mitigar la brecha de acceso en las áreas periféricas.</p>
+
+        <h3>5.2. Indicadores de Salud Pública</h3>
+        <p>A nivel país, la Tasa de Mortalidad (TM) de menores de 5 años es de 15.7 por 1.000 Nacidos Vivos.<a href="#f6" class="cita">[6]</a> En términos de morbilidad, las principales causas de muerte y enfermedad en el contexto paraguayo son prevenibles, destacándose la prematurez, anomalías congénitas, diarreas e infecciones de vías respiratorias.<a href="#f25" class="cita">[25]</a> Las Infecciones Respiratorias Agudas (IRA) y las Enfermedades Diarreicas Agudas (EDA) son indicadores clave de la salud pública.<a href="#f6" class="cita">[6]</a></p>
+        <p>Existe una correlación directa entre las altas tasas de morbilidad por IRA y EDA en la región sanitaria y la precariedad de los servicios de saneamiento y agua en las áreas rurales.<a href="#f1" class="cita">[1]</a> Si los niños se enferman crónicamente, su capacidad para asistir a la escuela y la productividad de los padres se reduce. Por lo tanto, la política sanitaria municipal debe estar intrínsecamente integrada con la política de infraestructura, utilizando las USF como centros de monitoreo y prevención para reducir estas infecciones en las compañías.</p>
+        <p>Aunque los datos históricos de consulta (3,274 consultas anuales registradas en el Centro de Salud de Itá en 2001) <a href="#f1" class="cita">[1]</a> son limitados, la cifra puede sugerir que una gran parte de la población tiene dificultades para acceder a los servicios, o bien opta por acudir a centros privados o del IPS. Es necesario implementar campañas para fomentar la consulta temprana y la utilización de la red pública.</p>
+
+        <h3>5.3. Reto de la Drogadicción y Prevención Social</h3>
+        <p>El combate a la drogadicción es una prioridad social y de seguridad ciudadana. La prevención y el tratamiento son liderados a nivel nacional por la SENAD (Secretaría Nacional Antidrogas) <a href="#f26" class="cita">[26, 27]</a>, que promueve programas como el Plan SUMAR para la reducción de la demanda.<a href="#f28" class="cita">[28]</a></p>
+        <p>La Intendencia de Itá, dada su población joven (edad mediana de 29 años) <a href="#f2" class="cita">[2]</a>, tiene el deber de ser proactiva en este frente. Es imperativo establecer una estructura municipal dedicada a la prevención de adicciones que coordine localmente los planes nacionales de la SENAD, y que utilice los centros educativos y espacios públicos para programas de prevención primaria y educación social.</p>
+
+        <h2>VI. DESAFÍOS EDUCATIVOS Y DESARROLLO DE CAPACIDADES</h2>
+
+        <h3>6.1. Estructura Educativa y Asistencia Rural</h3>
+        <p>La misión del Ministerio de Educación y Ciencias (MEC) es garantizar una educación de calidad como bien público y derecho humano <a href="#f29" class="cita">[29]</a>, con un sistema que comprende instituciones públicas, privadas y subvencionadas.<a href="#f30" class="cita">[30]</a></p>
+        <p>El desafío educativo más apremiante en Itá se centra en la disparidad de asistencia. Si bien la asistencia a una institución formal (pública o privada) para personas de 6 a 24 años está en un promedio del 60% en el distrito, el porcentaje de personas que <strong>no asisten</strong> se dispara al <strong>41%</strong> en localidades rurales como Peguajhó.<a href="#f1" class="cita">[1]</a></p>
+        <p>Un 41% de jóvenes rurales sin acceso a la educación formal representa una amenaza directa al capital humano y a la futura productividad del distrito, limitando la capacidad de la próxima generación para romper el ciclo de la pobreza.<a href="#f31" class="cita">[31]</a></p>
+
+        <h3>6.2. Desafíos de Alfabetización y Equidad</h3>
+        <p>Los indicadores de alfabetización a nivel nacional muestran que la desigualdad socioeconómica es un obstáculo clave.<a href="#f31" class="cita">[31]</a> Existe una clara correlación entre el menor nivel de alfabetismo y la población femenina, la residencia rural, y la lengua materna guaraní.<a href="#f32" class="cita">[32, 33]</a> La tasa de analfabetismo alcanza el 12.9% para aquellos que hablan guaraní la mayor parte del tiempo en sus casas, comparado con 1.4% para los hispanohablantes.<a href="#f32" class="cita">[32]</a></p>
+        <p>La Intendencia debe reconocer que el problema educativo va más allá de la construcción de aulas; requiere una estrategia social que aborde las barreras lingüísticas, de género y socioeconómicas. Se deben financiar programas de alfabetización y capacitación técnica no formal, inspirados en modelos existentes <a href="#f33" class="cita">[33]</a>, dirigidos específicamente a las compañías rurales y adaptados a la realidad de las mujeres y los jóvenes hablantes de guaraní.</p>
+
+        <p><strong>Tabla II. Brechas Críticas en Servicios Sociales y Calidad de Vida (Itá)</strong></p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Indicador de Servicio</th>
+                    <th>Itá Urbano</th>
+                    <th>Itá Rural (Ej. Peguajhó/Curupicayty)</th>
+                    <th>Desafío Estratégico</th>
+                    <th>Fuente</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Asistencia Educativa Formal (6-24 años)</td>
+                    <td>Mayor que el promedio distrital</td>
+                    <td>41% No Asistencia (Peguajhó)</td>
+                    <td>Reducción de la deserción/no-asistencia rural.</td>
+                    <td><a href="#f1" class="cita">[1]</a></td>
+                </tr>
+                <tr>
+                    <td>Abastecimiento de Agua</td>
+                    <td>Red CORPOSANA/SENASA (58%)</td>
+                    <td>Pozos sin bomba (Tendencia)</td>
+                    <td>Extensión urgente de redes y mejora de calidad.</td>
+                    <td><a href="#f1" class="cita">[1]</a></td>
+                </tr>
+                <tr>
+                    <td>Saneamiento</td>
+                    <td>Pozo Ciego (65% es lo más frecuente)</td>
+                    <td>Letrina Común (Lo más frecuente)</td>
+                    <td>Inversión en alcantarillado sanitario.</td>
+                    <td><a href="#f1" class="cita">[1]</a></td>
+                </tr>
+                <tr>
+                    <td>Salud Preventiva</td>
+                    <td>N/A</td>
+                    <td>Alto riesgo por causas prevenibles (EDA/IRA)</td>
+                    <td>Integración salud/infraestructura preventiva.</td>
+                    <td><a href="#f6" class="cita">[6]</a>, <a href="#f25" class="cita">[25]</a></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>VII. RECOMENDACIONES ESTRATÉGICAS Y ACCIONES PRIORITARIAS (Hoja de Ruta del Intendente)</h2>
+
+        <p>El éxito de la administración propuesta dependerá de la capacidad de transformar los datos de desigualdad en políticas de equidad y desarrollo. A continuación, se presenta una hoja de ruta con acciones prioritarias estructuradas por ejes estratégicos.</p>
+
+        <h3>7.1. Eje de Equidad Territorial y Calidad de Vida (Rural-Urbana)</h3>
+        <ul>
+            <li><strong>Acción 1: Plan Maestro de Saneamiento y Agua (Coordinación ESSAP):</strong> Establecer un mecanismo de coordinación permanente con ESSAP para asegurar que la extensión de la red de agua potable y la excavación de nuevos pozos <a href="#f18" class="cita">[18]</a> prioricen la eliminación de los pozos sin bomba en las compañías. Paralelamente, lanzar un programa municipal para la eliminación progresiva de la letrina común, sustituyéndola por soluciones de saneamiento adecuadas.<a href="#f1" class="cita">[1]</a></li>
+            <li><strong>Acción 2: Inversión en Caminos Rurales y Conectividad:</strong> Priorizar el mantenimiento y mejoramiento de la infraestructura vial hacia las compañías. Esto facilitará el acceso a los servicios esenciales (Hospital Distrital, USF, escuelas) y reducirá los costos de comercialización de la producción local.<a href="#f11" class="cita">[11]</a></li>
+            <li><strong>Acción 3: Seguridad de Espacios Públicos:</strong> Implementar un plan de seguridad para proteger la inversión en espacios de recreación (Centro Recreativo Las Palmeras <a href="#f13" class="cita">[13]</a> y Plaza Deportiva <a href="#f10" class="cita">[10]</a>). Esto incluye la instalación de iluminación de alta eficiencia y circuitos cerrados de seguridad para disuadir el vandalismo y el robo de equipos y estructuras, asegurando la accesibilidad y el disfrute por parte de la comunidad.<a href="#f21" class="cita">[21]</a></li>
+        </ul>
+
+        <h3>7.2. Eje de Desarrollo Económico Sostenible y Empleo Joven</h3>
+        <ul>
+            <li><strong>Acción 4: Fomento a la Tradición Productiva:</strong> Desarrollar una estrategia de valor agregado para la tradición de la miel de caña.<a href="#f11" class="cita">[11]</a> Esto incluye la creación de una marca municipal certificada y la promoción de microcréditos técnicos para los pequeños productores, fomentando la formalización y el desarrollo de PYMEs en el sector agroindustrial.</li>
+            <li><strong>Acción 5: Programas de Capacitación Técnica Rural:</strong> Lanzar un programa de emergencia para la Alfabetización de Adultos y Jóvenes, enfocado en las compañías con alta no-asistencia (41% en Peguajhó).<a href="#f1" class="cita">[1]</a> Estos programas deben incluir formación vocacional y técnica que genere habilidades de ingreso rápido, contrarrestando la migración por falta de oportunidades.<a href="#f32" class="cita">[32, 33]</a></li>
+        </ul>
+
+        <h3>7.3. Eje de Eficiencia Administrativa y Transparencia</h3>
+        <ul>
+            <li><strong>Acción 6: Transparencia Proactiva Digital:</strong> Crear y mantener un Portal de Transparencia de vanguardia, publicando la información contable y financiera de forma accesible, detallando el destino de los ingresos (impuestos <a href="#f14" class="cita">[14]</a>, Royalties, FONACIDE <a href="#f4" class="cita">[4]</a>) y la ejecución de cada proyecto. Esto abordará directamente los hallazgos históricos de rendición de cuentas.</li>
+            <li><strong>Acción 7: Modernización de la Recaudación:</strong> Implementar sistemas de liquidación y pago de impuestos municipales en línea, facilitando el cumplimiento de los contribuyentes y maximizando la eficiencia en la captación de recursos propios.</li>
+        </ul>
+
+        <h3>7.4. Eje de Salud Comunitaria y Prevención Social</h3>
+        <ul>
+            <li><strong>Acción 8: Fortalecimiento de la Atención Primaria:</strong> Realizar un mapeo detallado de las necesidades de las USF para asegurar que operen bajo el modelo ampliado <a href="#f23" class="cita">[23]</a> y que cuenten con los recursos necesarios para combatir las enfermedades de origen ambiental (IRA y EDA).<a href="#f6" class="cita">[6]</a> La Clínica Móvil <a href="#f24" class="cita">[24]</a> debe ser utilizada estratégicamente para garantizar la cobertura en las zonas más remotas.</li>
+            <li><strong>Acción 9: Plan Municipal de Prevención de Adicciones (PMPA):</strong> Crear una mesa interinstitucional municipal para coordinar el Plan SUMAR de SENAD <a href="#f28" class="cita">[28]</a> y otros programas de prevención. Dado que la edad mediana es de 29 años <a href="#f2" class="cita">[2]</a>, los esfuerzos deben estar dirigidos a la prevención primaria en jóvenes, utilizando los centros comunitarios y deportivos como ejes de intervención.</li>
+        </ul>
+
+        <p>El éxito de la gestión en Itá se medirá por su capacidad para cerrar la brecha entre el progreso urbano y el rezago rural. La implementación rigurosa de estas acciones, bajo un principio de transparencia inquebrantable, permitirá un desarrollo equitativo y sostenido para el distrito.</p>
+
+        <div class="fuentes">
+            <h2>Fuentes (Citas)</h2>
+            <ol>
+                <li id="f1"><a href="https://www.cird.org.py/wp-content/uploads/sites/10/2018/08/PLAN_ITA.pdf" target="_blank">[1]</a> CIRD. (2018). <em>Plan Local de Salud de Itá</em>. Análisis de las características de las viviendas y la población.</li>
+                <li id="f2"><a href="https://www.datos.gov.py/dataset/resultados-finales-del-censo-nacional-de-poblaci%C3%B3n-y-viviendas-2022/resource/154c2e97-f655" target="_blank">[2]</a> Instituto Nacional de Estadística (INE). <em>Resultados Finales del Censo Nacional de Población y Viviendas 2022</em>. Población por sexo y edad mediana, según distrito, 2022.</li>
+                <li id="f3"><a href="https://municipalidadita.gov.py/rendicion-de-cuentas/" target="_blank">[3]</a> Municipalidad de Itá. <em>Rendición de Cuentas</em>.</li>
+                <li id="f4"><a href="https://www.contraloria.gov.py/index.php/categorias-de-archivos/category/414-municipalidad-de-ita?download=453:municipalidad-de-ita---2007---agosto" target="_blank">[4]</a> Contraloría General de la República (CGR). <em>Municipalidad de Itá - Informe de Gestión (2007)</em>. Disposiciones en la Ley Nº 2869.</li>
+                <li id="f5"><a href="https://informacionpublica.paraguay.gov.py/" target="_blank">[5]</a> Gobierno de Paraguay. <em>Portal Unificado de Acceso a la Información Pública</em>.</li>
+                <li id="f6"><a href="https://digies.mspbs.gov.py/wp-content/uploads/Indicadores-basicos-de-salud-ano-2024.pdf" target="_blank">[6]</a> Ministerio de Salud Pública y Bienestar Social (MSPyBS). <em>Indicadores Básicos de Salud (2024)</em>. Tasas de Morbilidad y Mortalidad.</li>
+                <li id="f7"><a href="https://www.telesurtv.net/analisis-revela-preocupante-situacion-de-pobreza-multidimensional-en-paraguay/" target="_blank">[7]</a> TeleSUR. <em>Análisis revela preocupante situación de pobreza multidimensional en Paraguay</em>. (2025).</li>
+                <li id="f8"><a href="https://www.ine.gov.py/Publicaciones/Biblioteca/documento/262/NBI%20PRESENTACION%20.pdf" target="_blank">[8]</a> Instituto Nacional de Estadística (INE). <em>Porcentaje de hogares con Necesidad Básica Insatisfecha en Acceso a la Educación (1982-2022)</em>.</li>
+                <li id="f9"><a href="https://www.abc.com.py/edicion-impresa/suplementos/escolar/principales-actividades-economicas-del-paraguay-468322.html#:~:text=La%20agricultura%20y%20la%20ganader%C3%ADa,de%20verduras%20y%20frutas%20tropicales." target="_blank">[9]</a> ABC Color. <em>Principales actividades económicas del Paraguay</em>.</li>
+                <li id="f10"><a href="https://www.snd.gov.py/la-ciudad-del-ita-karu-ya-tiene-su-plaza-deportiva/" target="_blank">[10]</a> Secretaría Nacional de Deportes (SND). <em>La ciudad del Ita Karu ya tiene su Plaza Deportiva</em>.</li>
+                <li id="f11"><a href="https://www.municipios.gov.py/ita/" target="_blank">[11]</a> Municipalidad de Itá. <em>Datos del Intendente y Actividades Económicas</em>.</li>
+                <li id="f12"><a href="https://www.researchgate.net/publication/360489705_Historias_entretejidas_programa_de_alfabetizacion_de_adultos_no-formal_de_Paraguay_la-mirada-de-sus-protagonistas" target="_blank">[12]</a> INE. <em>Características de la economía Paraguaya</em>. (CEN 2011).</li>
+                <li id="f13"><a href="https://senatur.gov.py/noticias/centro-recreativo-las-palmeras-nuevo-atractivo-turistico-en-la-ciudad-de-ita/" target="_blank">[13]</a> Secretaría Nacional de Turismo (SENATUR). <em>Centro Recreativo Las Palmeras</em>.</li>
+                <li id="f14"><a href="https://www.catastro.gov.py/liquidacion_impuestos" target="_blank">[14]</a> Dirección General del Servicio Nacional de Catastro. <em>Liquidación de Impuestos Municipales</em>.</li>
+                <li id="f15"><a href="https://www.asuncion.gov.py/recaudaciones/plazo-para-presentacion-de-balances-para-contribuyentes-de-impuesto-a-la-renta-del-pequeno-contribuyente-y-de-impuesto-a-la-renta-empresarial-se-prorrogo-hasta-fin-del-presente-mes-de-julio" target="_blank">[15]</a> Municipalidad de Asunción (Referencia de incentivos fiscales).</li>
+                <li id="f16"><a href="https://municipalidadita.gov.py/wp-content/uploads/2024/07/JULIO-GASTOS-.pdf" target="_blank">[16]</a> Municipalidad de Itá. <em>Documento de Gastos (Julio 2024)</em>.</li>
+                <li id="f17"><a href="https://www.essap.com.py/f171d012aa3c1060b9a1a72da58f9939/" target="_blank">[17]</a> ESSAP. <em>Proyecto de Modernización del Sector Agua y Saneamiento (PMSAS)</em>. Cobertura y pérdidas.</li>
+                <li id="f18"><a href="https://www.essap.com.py/9cc2cb1d112c708dd09f3848da6f91fe/" target="_blank">[18]</a> ESSAP. <em>67 nuevas conexiones en la ciudad de Itá</em>.</li>
+                <li id="f19"><a href="https://informacionpublica.paraguay.gov.py/public/1057029-Producto4-GRomn_Finalpdf-Producto4-G.Romn_Final.pdf" target="_blank">[19]</a> Gobierno de Paraguay. <em>Decreto N° 18.969/1997</em>. Reglamento de la Ley N° 42/90 sobre residuos peligrosos.</li>
+                <li id="f20"><a href="https://migraciones.gov.py/minga-ambiental-contra-el-dengue-en-el-puerto-fronterizo-de-ita-enramada/" target="_blank">[20]</a> Dirección Nacional de Migraciones (DNM). <em>Minga ambiental contra el dengue en Itá Enramada</em>.</li>
+                <li id="f21"><a href="https://www.asuncion.gov.py/area-social/participacion-ciudadana/en-el-barrio-ita-enramada-se-tendra-la-primera-plaza-que-contara-con-circuito-cerrado-de-seguridad-a-traves-de-los-fondos-para-proyectos-especiales" target="_blank">[21]</a> Municipalidad de Asunción (Referencia de seguridad en espacios públicos).</li>
+                <li id="f22"><a href="https://www.mspbs.gov.py/portal/30002/avances-en-la-proteccion-social-mesas-de-proteccion-establecidas-en-ita-y-capiata.html" target="_blank">[22]</a> Ministerio de Salud Pública y Bienestar Social (MSPyBS). <em>Avances en la protección social: mesas de protección establecidas en Itá</em>.</li>
+                <li id="f23"><a href="https://www.mspbs.gov.py/portal/18842/en-paraguay-contamos-con-cuatro-tipos-de-unidades-de-salud-de-la-familia-iexclconocelos.html" target="_blank">[23]</a> Ministerio de Salud Pública y Bienestar Social (MSPyBS). <em>Tipos de Unidades de Salud de la Familia (USF)</em>.</li>
+                <li id="f24"><a href="https://municipalidadita.gov.py/clinica-movil-y-servicios-integrales/" target="_blank">[24]</a> Municipalidad de Itá. <em>Clínica Móvil y Servicios Integrales</em>.</li>
+                <li id="f25"><a href="https://docs.bvsalud.org/biblioref/2018/11/965939/13-25.pdf" target="_blank">[25]</a> Biblioteca Virtual en Salud. <em>Sistema de Salud de Paraguay</em>. Principales causas de morbilidad.</li>
+                <li id="f26"><a href="https://senad.gov.py/" target="_blank">[26]</a> Secretaría Nacional Antidrogas (SENAD). <em>Autoridad Gubernamental responsable de la Política Nacional sobre Drogas</em>.</li>
+                <li id="f27"><a href="https://ministeriodejusticia.gov.py/ministerio-de-justicia-y-la-senad-capacitan-en-prevencion-y-tratamiento-de-sustancias-psicoactivas/" target="_blank">[27]</a> Ministerio de Justicia. <em>Capacitación en prevención y tratamiento de sustancias psicoactivas</em>.</li>
+                <li id="f28"><a href="https://senad.gov.py/senad-fortalece-acciones-de-prevencion-y-tratamiento-en-el-marco-del-plan-de-accion-contra-el-abuso-de-drogas-sumar/" target="_blank">[28]</a> Secretaría Nacional Antidrogas (SENAD). <em>Plan de Acción contra el Abuso de Drogas – SUMAR</em>.</li>
+                <li id="f29"><a href="https://informacionpublica.paraguay.gov.py/public/5101976-Cuadro2pdf-Cuadro2.pdf" target="_blank">[29]</a> Ministerio de Educación y Ciencias (MEC). <em>Misión</em>.</li>
+                <li id="f30"><a href="https://www.observatorio.org.py/directorio-instituciones" target="_blank">[30]</a> Observatorio Educativo Ciudadano. <em>Directorio de Instituciones</em>.</li>
+                <li id="f31"><a href="https://brokenchalk.org/los-desafios-educativos-en-paraguay-la-desigualdad-socioeconomica-como-obstaculo-clave-al-progreso-educativo/" target="_blank">[31]</a> Broken Chalk. <em>Los desafíos educativos en Paraguay: la desigualdad socioeconómica como obstáculo</em>.</li>
+                <li id="f32"><a href="https://www.researchgate.net/publication/360489705_Historias_entretejidas_programa_de_alfabetizacion_de_adultos_no-formal_de_Paraguay_la-mirada-de-sus-protagonistas" target="_blank">[32]</a> ResearchGate. <em>Historias entretejidas: programa de alfabetización de adultos no formal de Paraguay</em>. Datos de alfabetismo INE.</li>
+                <li id="f33"><a href="https://www.redalyc.org/journal/270/27069733004/html/" target="_blank">[33]</a> Redalyc. <em>Alfabetización de personas jóvenes y adultas en Paraguay</em>.</li>
+            </ol>
+        </div>
+    </div>
+</body>
+</html>
